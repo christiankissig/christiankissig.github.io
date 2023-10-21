@@ -1,11 +1,10 @@
 title: Christian Kissig
-email: email@christiankissig.com
+email: christian+dev-github@kissig.org
 description: > # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://christiankissig.github.io"
 
-twitter_username: christiankissig
 github_username:  christiankissig
 
 markdown: kramdown
